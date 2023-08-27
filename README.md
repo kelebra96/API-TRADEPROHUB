@@ -20,3 +20,20 @@ Tabela de conteúdos
 <p>
 
 # Tabela de conteúdo
+# Tabela de conteúdo
+# Tabela de conteúdo
+# Tests
+<h1>Rotas<h1>
+<h5>Method HTTP - CRUD (CREATE, READ, UPDATE, DELETE)</h5>
+<br>
+<p>GET - Pega uma info</p>
+<p>POST - Cria uma info</p>
+<p>PUT - Altera toda info</p>
+<p>PATH - Altera parte da info</p>
+<p>DELETE - Apaga uma info</p>
+<br>
+<h5>Name - Um identificador da rota
+<br>
+<h5>Function (Callback) -  Função responsável por executar algum comando</h5>
+# Tabela de conteúdo
+
